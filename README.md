@@ -4,7 +4,7 @@
 <p>Sou estudante de programação em foco Full-Stack, atualmente aprendendo o básico de <b>HTML, CSS e Javascript</b>.<br>Introduzindo ao <b>Python</b>, e futuramente aprendendo <b>PHP, MySQL, SAAS, NODE</b> e etc.</p>
 
 <div align="right">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/DeividWilly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividWilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
