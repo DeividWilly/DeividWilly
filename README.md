@@ -3,15 +3,15 @@
 
 <p>Sou estudante de programação em foco Full-Stack, atualmente aprendendo o básico de <b>HTML, CSS e Javascript</b>.<br>Introduzindo ao <b>Python</b>, e futuramente aprendendo <b>PHP, MySQL, SAAS, NODE</b> e etc.</p>
 
+<div align="right">
+  <a href="https://github.com/DeividWilly">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeividWilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ```python
 while True:
   learn()
 ``` 
-
-<div align="right">
-  <a href="https://github.com/DeividWilly">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeividWilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" alt="">
@@ -37,6 +37,13 @@ while True:
   <a href="https://www.facebook.com/profile.php?id=100005456084926" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/deividwillly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/LovisWilly?t=ALiE5CoerPiv_qSJqQT5DQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/WillyLovis" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href="https://t.me/WillyDev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="https://steamcommunity.com/id/NamelessSoul/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+  
+<img align="right" src="https://i.imgur.com/QraGZGz.gif" alt="" >
+ 
+```python
+  contacts = {'Telegram':'@WiilyDev',
+              'Discord':'WillyDev#0737',
+              'Instagram':'@deividwilly'}
