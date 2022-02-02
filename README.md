@@ -4,7 +4,8 @@
 <p>Sou estudante de programação em foco Full-Stack, atualmente aprendendo o básico de <b>HTML, CSS e Javascript</b>.<br>Introduzindo ao <b>Python</b>, e futuramente aprendendo <b>PHP, MySQL, SAAS, NODE</b> e etc.</p>
 
 ```python
-print('Hello World')
+while True:
+  learn()
 ``` 
 
 <div align="right">
