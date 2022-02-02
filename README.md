@@ -1,7 +1,7 @@
 ##  Olá, sou Deivid Willy.
 - 🌱 Atualmente estudando HTTML/CSS/JS e Python.
 
-<p>Sou estudante de programação em foco Full-Stack, atualmente aprendendo o básico de <b>HTML, CSS e Javascript</b>.<br>Introduzindo ao <b>Python</b>, e futuramente aprendendo <b>PHP, MySQL, SAAS, NODE</b> e etc.</p>
+<p>Olá, sou o <strong>Deivid Willy</strong>, moro na região de Grande São Paulo. Sou estudante no ensino médio, e também estudante de programação, focando no Full-Stack! Atualmente estou aprendendo a linguagem de programação <b>Python</b>, e também <b>HTML, CSS e Javascript</b>. Em breve investindo em <b>PHP, MySQL e <em>C++</em></b>. Também aumentando meu conhecimento em <b>Web, UI/UX, SASS, Bootstrap</b>, frameworks como <b>Django, Angular, React</b> e mais outros. Futuramente trabalhando com código limpo e <b><i>Design Patterns</i></b>.</p>
 
 <div align="right">
   <a href="https://github.com/DeividWilly">
@@ -47,3 +47,4 @@ while True:
   contacts = {'Telegram':'@WiilyDev',
               'Discord':'WillyDev#0737',
               'Instagram':'@deividwilly'}
+ ```
