@@ -39,7 +39,7 @@ while True:
   <a href="https://twitter.com/LovisWilly?t=ALiE5CoerPiv_qSJqQT5DQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://t.me/WillyDev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="https://steamcommunity.com/id/NamelessSoul/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  <a linkType="email" href="mailto:deividwillyde@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
+  <a linkType="email" href="mailto:deividwillydev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 </div>
   
 <img align="right" src="https://i.imgur.com/QraGZGz.gif" alt="" >
