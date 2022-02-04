@@ -46,5 +46,6 @@ while True:
 ```python
   contacts = {'Telegram':'@WiilyDev',
               'Discord':'WillyDev#0737',
-              'Instagram':'@deividwilly'}
+              'Instagram':'@deividwilly',
+              'Email':'deividwillydev@gmail.com'}
  ```
