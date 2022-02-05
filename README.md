@@ -12,6 +12,7 @@
 while True:
   learn()
 ``` 
+## Linguagens
  
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" alt="">
@@ -32,7 +33,9 @@ while True:
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
 
 </div>
-
+ 
+## Contatos
+ 
 <div>
   <a href="https://www.facebook.com/profile.php?id=100005456084926" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/deividwillly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
