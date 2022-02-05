@@ -1,4 +1,4 @@
-##  Olá, sou Deivid Willy.
+##  Olá, sou Deivid Willy. 👑
 - 🌱 Atualmente estudando HTTML/CSS/JS e Python.
 
 <p>Olá, sou o <strong>Deivid Willy</strong>, moro na região de Grande São Paulo. Sou estudante no ensino médio, e também estudante de programação, focando no Full-Stack! Atualmente estou aprendendo a linguagem de programação <b>Python</b>, e também <b>HTML, CSS e Javascript</b>. Em breve investindo em <b>PHP, MySQL e <em>C++</em></b>. Também aumentando meu conhecimento em <b>Web, UI/UX, SASS, Bootstrap</b>, frameworks como <b>Django, Angular, React</b> e mais outros. Futuramente trabalhando com código limpo e <b><i>Design Patterns</i></b>.</p>
@@ -12,7 +12,7 @@
 while True:
   learn()
 ``` 
-## Linguagens
+## Linguagens e ferramentas🛠️
  
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" alt="">
@@ -31,10 +31,12 @@ while True:
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
+  <img src="https://github.com/jswelsh/jswelsh/blob/main/Images/gimp_badgev1.svg" alt="">
 
 </div>
  
-## Contatos
+## Contatos 📥
  
 <div>
   <a href="https://www.facebook.com/profile.php?id=100005456084926" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
