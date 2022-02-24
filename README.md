@@ -3,6 +3,18 @@
 
 <p>Olá, sou o <strong>Deivid Willy</strong>, moro na região de Grande São Paulo. Sou estudante no ensino médio, e também estudante de programação, focando no Full-Stack! Atualmente estou aprendendo a linguagem de programação <b>Python</b>, e também <b>HTML, CSS e Javascript</b>. Em breve investindo em <b>PHP, MySQL e <em>C++</em></b>. Também aumentando meu conhecimento em <b>Web, UI/UX, SASS, Bootstrap</b>, frameworks como <b>Django, Angular, React</b> e mais outros. Futuramente trabalhando com código limpo e <b><i>Design Patterns</i></b>.</p>
 
+| Linguagens | Tipo |
+| :----------: | :----: |
+| [HTML][site-html] | Marcação |
+| [CSS][site-css] | Estilo |
+| [Javascript][site-js] | Programação |
+| [Markdown][site-md] | Marcação |
+| [Python][site-py] | Programação |
+| [C][site-c] | Programação |
+| [Django][site-django](Python) | Framework Web |
+| [Kivy][site-kivy](Python) | Framework Mobile |
+
+
 <div align="right">
   <a href="https://github.com/DeividWilly">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeividWilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -55,3 +67,12 @@ while True:
               'Instagram':'@deividwilly',
               'Email':'deividwillydev@gmail.com'}
  ```
+
+[site-html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[site-css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[site-js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[site-md]: https://www.markdownguide.org/
+[site-py]: https://www.python.org/
+[site-c]: https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-170
+[site-django]: https://www.djangoproject.com/
+[site-kivy]: https://kivy.org/#home
