@@ -1,4 +1,4 @@
-##  Olá, sou Deivid Willy. 👑 ##
+##  Olá, sou Deivid Willy. ##
 - 🌱 Atualmente estudando HTTML/CSS/JS e Python.
 
 <p>Olá, sou o <strong>Deivid Willy</strong>, moro na região de Grande São Paulo. Sou estudante no ensino médio, e também estudante de programação, focando no Full-Stack! Atualmente estou aprendendo a linguagem de programação <b>Python</b>, e também <b>HTML, CSS e Javascript</b>. Em breve investindo em <b>MySQL, e outras tecnologias</b>. Também aumentando meu conhecimento em <b>Web, UI/UX</b>, frameworks como <b>Django, Bulma, React</b> e mais outros. Trabalhando e estudando projetos <i>open-source</i> e aprendendo <b><i>Design Patterns</i></b>.</p>
