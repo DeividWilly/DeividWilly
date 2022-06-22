@@ -1,13 +1,7 @@
 ##  Olá, sou Deivid Willy. ##
 - 🌱 Atualmente estudando HTTML/CSS/JS e Python.
 
-<p>Olá, sou o <strong>Deivid Willy</strong>, moro na região de Grande São Paulo. Sou estudante no ensino médio, e também estudante de programação, focando no Full-Stack! Atualmente estou aprendendo a linguagem de programação <b>Python</b>, e também <b>HTML, CSS e Javascript</b>. Em breve investindo em <b>MySQL, e outras tecnologias</b>. Também aumentando meu conhecimento em <b>Web, UI/UX</b>, frameworks como <b>Django, Bulma, React</b> e mais outros. Trabalhando e estudando projetos <i>open-source</i> e aprendendo <b><i>Design Patterns</i></b>.</p>
-
-<div align="right">
-  <a href="https://github.com/DeividWilly">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeividWilly&show_icons=true&theme=merko&count_private=true"/>
-</div>
-
+<p>Olá, sou o <strong>Deivid Willy</strong>, moro na região de Grande São Paulo. Sou estudante no ensino médio, e também estudante de programação, focando no Full-Stack! Atualmente estou aprendendo a linguagem de programação <b>Python</b>, e também <b>HTML, CSS e Javascript</b>. Em breve investindo em <b>MySQL, e outras tecnologias</b>. Também aumentando meu conhecimento em <b>Web</b>, frameworks como <b>Django, Bulma, React</b> e mais outros. Trabalhando e estudando projetos <i>open-source</i> e aprendendo <b><i>Design Patterns</i></b>.</p>
 
 ```python
 while True:
@@ -20,7 +14,6 @@ while True:
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" width="40" alt="">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="40" alt="">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="40" alt="">
  </div><br>
 
@@ -31,8 +24,6 @@ while True:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
-  <img src="https://github.com/jswelsh/jswelsh/blob/main/Images/gimp_badgev1.svg" alt="">
 
 </div>
  
@@ -40,7 +31,7 @@ while True:
  
 <div>
   <a href="https://www.facebook.com/profile.php?id=100005456084926" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/deividwillly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/willypydev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/LovisWilly?t=ALiE5CoerPiv_qSJqQT5DQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://t.me/WillyDev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="https://steamcommunity.com/id/NamelessSoul/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
@@ -52,6 +43,6 @@ while True:
 ```python
   contacts = {'Telegram':'@WiilyDev',
               'Discord':'WillyDev#0737',
-              'Instagram':'@deividwilly',
+              'Instagram':'@willypydev',
               'Email':'deividwillydev@gmail.com'}
  ```
