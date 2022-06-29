@@ -38,7 +38,6 @@ while True:
   <a linkType="email" href="mailto:deividwillydev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 </div>
   
-<img align="right" src="https://i.imgur.com/QraGZGz.gif" alt="" >
  
 ```python
   contacts = {'Telegram':'@WiilyDev',
